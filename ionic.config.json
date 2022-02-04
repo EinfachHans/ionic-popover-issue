@@ -1,0 +1,7 @@
+{
+  "name": "popover-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
